@@ -1,2 +1,2 @@
 # E-commerce-website
-Ayaa's Store
+Dynamic ecommerce web app with JEE, MVC, Hibernate, and MySQL for seamless online shopping experiences.
